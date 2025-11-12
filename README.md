@@ -2,7 +2,7 @@
 
 ---
 
-##  Descripción del Proyecto
+### Cambio de descripcion
 
 **EventPlanner** es una aplicación web diseñada para gestionar eventos musicales de forma *fácil* y ***eficiente***. Permite organizar desde pequeños conciertos hasta grandes festivales de rock.
 
